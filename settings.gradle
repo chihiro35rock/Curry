@@ -1,0 +1,2 @@
+rootProject.name = "Curry"
+include ':app'
